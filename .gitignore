@@ -8,8 +8,8 @@
 *.orig
 
 #maven ignore
-target/
-target
+/target/
+
 
 #elicpse ignore
 .settings/
